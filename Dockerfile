@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM daocloud.io/library/python:2.7.7
 MAINTAINER Joffrey F <joffrey@docker.com>
 
 RUN mkdir /home/docker-py
